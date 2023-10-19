@@ -1,0 +1,28 @@
+
+
+Random baseball facts Generator 
+
+Visualize your end result: to push a button and generate a general msg
+What is it built with? Html,Css,Javascript
+What can it do? Will generate a msg with a push of a button 
+
+
+completion date : 10/20
+
+Day One 10/17 : 
+
+-Set up all files
+
+- Come Up with a Topic
+Decide on what types of messages you want your program to output.
+Think about what kinds of messages you’d like your program to output. Is it a horoscope generator? A fortune teller? An inspiring phrase? 
+
+'in the year:${year} ${playersName} lead the ${League} in: ${category}
+
+- have successfuly made program tested it on a consolelog line and its working
+
+-need to do the HTML file and then the CSS file 
+
+
+
+
