@@ -23,6 +23,11 @@ Think about what kinds of messages you’d like your program to output. Is it a 
 
 -need to do the HTML file and then the CSS file 
 
+11/2 Updated DOM
+
+-updated button to relex msg on display box
+
+
 
 
 
