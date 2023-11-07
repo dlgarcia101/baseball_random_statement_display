@@ -22,6 +22,7 @@ let displayElement = document.querySelector('p');
 
 function seeRndMsg(){
 	displayElement.innerHTML = randomMsg;
+	getMsgBtn.style.backgroundColor = 'pink';
   
   }
   
